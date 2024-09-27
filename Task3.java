@@ -66,7 +66,7 @@ public class Task3 extends JFrame {
         add(targetCurrencyLabel, gbc);
 
         gbc.gridx = 1;
-        gbc.gridy = 2;
+        gbc.gridy = 2;  
         add(targetCurrencyBox, gbc);
 
         gbc.gridx = 0;
